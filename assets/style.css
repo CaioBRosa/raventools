@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+footer {
+    margin-top: auto;
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+th {
+    background-color: #ddd;
+}
+
+input {
+    text-align: center;
+}

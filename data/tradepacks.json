@@ -1,0 +1,137 @@
+{
+  "tradepacks1": {
+    "nome": "Glaceforde Explorers Kit",
+    "ingredientes": ["Wool", "Small Log", "Coal"],
+    "quantidades": [10, 30, 40]
+  },
+  "tradepacks2": {
+    "nome": "Bakers Basics",
+    "ingredientes": ["Milk", "Egg", "Ground Flour"],
+    "quantidades": [15, 30, 35]
+  },
+  "tradepacks3": {
+    "nome": "Basic Rations",
+    "ingredientes": ["Wheat", "Corn", "Apple"],
+    "quantidades": [15, 10, 10]
+  },
+  "tradepacks4": {
+    "nome": "Settler's Rations",
+    "ingredientes": ["Wheat", "Carrot", "Corn"],
+    "quantidades": [15, 30, 35]
+  },
+  "tradepacks5": {
+    "nome": "Ravencrest Finest Wears",
+    "ingredientes": ["Cotton", "Wool", "Hide"],
+    "quantidades": [8, 8, 8]
+  },
+  "tradepacks6": {
+    "nome": "Barbecue Specialty",
+    "ingredientes": ["Beef", "Chicken", "Coal", "Honey"],
+    "quantidades": [10, 5, 30, 6]
+  },
+  "tradepacks7": {
+    "nome": "Dairy Delivery",
+    "ingredientes": ["Milk", "Cheese", "Egg"],
+    "quantidades": [15, 1, 30]
+  },
+  "tradepacks8": {
+    "nome": "Strawberry Cakes",
+    "ingredientes": ["Honey", "Ground Flour", "Strawberry", "Milk"],
+    "quantidades": [10, 50, 40, 10]
+  },
+  "tradepacks9": {
+    "nome": "Kabbar's Omelets",
+    "ingredientes": ["Egg", "Cheese", "Pepper"],
+    "quantidades": [30, 1, 15]
+  },
+  "tradepacks10": {
+    "nome": "Sailor's Remedy",
+    "ingredientes": ["Carrot", "Orange", "Bean"],
+    "quantidades": [20, 5, 20]
+  },
+  "tradepacks11": {
+    "nome": "Sombreshade's Pie",
+    "ingredientes": ["Pumpkin", "Milk", "GroundFlour", "Honey"],
+    "quantidades": [5, 10, 20, 13]
+  },
+  "tradepacks12": {
+    "nome": "Aged Meat",
+    "ingredientes": ["Beef", "Salt", "Garlic"],
+    "quantidades": [12, 5, 15]
+  },
+  "tradepacks13": {
+    "nome": "Fried Chicken",
+    "ingredientes": ["Chicken", "Onion", "Garlic", "Ground Flour"],
+    "quantidades": [12, 10, 10, 20]
+  },
+  "tradepacks14": {
+    "nome": "Margrove Ale Ingredients",
+    "ingredientes": ["Wheat", "Acorn", "Pumpkin"],
+    "quantidades": [30, 3, 2]
+  },
+  "tradepacks15": {
+    "nome": "Campfire Roast",
+    "ingredientes": ["Small Log", "Stone", "Chicken"],
+    "quantidades": [22, 130, 8]
+  },
+  "tradepacks16": {
+    "nome": "Building Materials",
+    "ingredientes": ["Stone", "Small Log", "Hide"],
+    "quantidades": [100, 22, 10]
+  },
+  "tradepacks17": {
+    "nome": "Crafting Basics",
+    "ingredientes": ["Copper Ore", "Hide", "Small Log"],
+    "quantidades": [40, 10, 25]
+  },
+  "tradepacks18": {
+    "nome": "Slums Provisions",
+    "ingredientes": ["Cotton", "Shank", "Potato"],
+    "quantidades": [10, 8, 80]
+  },
+  "tradepacks19": {
+    "nome": "Kindlin Kit",
+    "ingredientes": ["Small Log", "Coal", "Cotton"],
+    "quantidades": [38, 40, 10]
+  },
+  "tradepacks20": {
+    "nome": "Pickled Vegetables",
+    "ingredientes": ["Cabbage", "Carrot", "Salt"],
+    "quantidades": [15, 50, 8]
+  },
+  "tradepacks21": {
+    "nome": "Butcher's Box",
+    "ingredientes": ["Beef", "Chicken", "Shank", "Cheese"],
+    "quantidades": [5, 8, 5, 1]
+  },
+  "tradepacks22": {
+    "nome": "Sajecho's Spices",
+    "ingredientes": ["Onion", "Orange", "Salt"],
+    "quantidades": [15, 4, 5]
+  },
+  "tradepacks23": {
+    "nome": "Brined Shank",
+    "ingredientes": ["Shank", "Salt", "Pepper"],
+    "quantidades": [10, 8, 10]
+  },
+  "tradepacks24": {
+    "nome": "Seabreeze Rum",
+    "ingredientes": ["Corn", "Cabbage", "Banana", "Blueberry"],
+    "quantidades": [10, 8, 5, 30]
+  },
+  "tradepacks25": {
+    "nome": "Sajecho Fruit Basket",
+    "ingredientes": ["Banana", "Watermelon", "Orange", "Grape"],
+    "quantidades": [2, 1, 4, 10]
+  },
+  "tradepacks26": {
+    "nome": "Winemakers Kit",
+    "ingredientes": ["Grape", "Blueberry", "Moonberry"],
+    "quantidades": [40, 15, 5]
+  },
+  "tradepacks27": {
+    "nome": "Rohna Smoked Ham",
+    "ingredientes": ["Shank", "Acorn", "Pea", "Salt"],
+    "quantidades": [5, 2, 10, 5]
+  }
+}

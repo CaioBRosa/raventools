@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora</title>
+  <style>
+        .hidden {
+            display: none;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #ddd;
+        }
+
+        input {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h2>Escolha uma opção:</h2>
+
+    <form id="myForm">
+
+        <label for="tradepackSelect">Tradepacks:</label>
+        <select id="tradepackSelect" onchange="updateTable()"></select>
+
+        <hr>
+        <table id="ingredientTable">
+        </table>
+        <table id="resultTable">
+            <tr>
+                <th>Custo Total</th>
+                <th>cidade de craft</th>
+                <th>cidade de venda</th>
+                <th>% da cidade de venda</th>
+                <th>Valor de Venda</th>
+                <th>Profit</th>
+            </tr>
+            <tr>
+                <td id="totalCost"></td>
+                <td id="startLocationCell"></td>
+                <td id="sellLocationCell"></td>
+                <td>
+                    <input type="number" id="percentInput">
+                </td>
+                <td id="venda"></td>
+                <td id="profit"></td>
+            </tr>
+        </table>
+    </form>
+    <script src="assets/tradepackCalc.js"></script>
+</body>
+</html>
